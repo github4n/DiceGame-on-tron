@@ -1,0 +1,114 @@
+@import "./_settings.less";  //全局变量存放的文件（要加~）
+
+/* body */
+body{
+    background: @bodyBg;
+    color: @bodyColor;
+}
+
+input{
+    // outline: none !important;
+    // border: none !important;
+}
+
+/* scrolly */
+/**对垂直流动条有效*/
+::-webkit-scrollbar { width: 0; height:0;}
+/*定义滚动条的轨道颜色、内阴影及圆角*/
+::-webkit-scrollbar-track{
+  background-color:#f0f0f0;
+  opacity: .6;
+  border-radius: 0;
+  -webkit-box-shadow: inset 0 0 0 rgba(0,0,0,.3);
+  background-color: rosybrown;
+}
+/*定义滑块颜色、内阴影及圆角*/
+::-webkit-scrollbar-thumb{background-color:#CCCCCC; opacity: .6;}
+::-webkit-scrollbar-thumb:hover {background-color:#CCCCCC; opacity: .6;}
+::-webkit-scrollbar-thumb:active {background-color:#CCCCCC; opacity: .6;}
+
+ /* for Chrome */
+ .inner-container::-webkit-scrollbar {
+    display: none;
+}
+
+/* home */
+.main{
+    // background-image: url("../assets//images/bg.png");
+    background-repeat: no-repeat;   //不重复
+    background-size: 100% 100%;     // 满屏 
+}
+
+/* Modal 遮罩弹出层 */
+.pop-box{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+
+    .box{
+        position: relative;
+        max-width: 700px;
+        max-height: 460px;
+        margin: 0 auto;
+
+        .content{
+            position: absolute;
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            top: 100px;
+           
+    
+            .left{
+                width: 300px;
+                height: 380px;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+    
+            .right{
+                background: #fff;
+                border-radius:0px 4px 4px 0px;
+                width: 400px;
+                height: 380px;
+                padding: 20px 10px;
+            }
+        }
+    }
+}
+
+.but-box{
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    .but{
+        cursor: pointer;
+        padding: 10px 100px;
+        background: @butBackground;
+        color: #fff;
+        border-radius: 2px;
+    }
+
+    .forget{
+        color: #111;
+        cursor: pointer;
+    }
+    .forget:hover{
+        opacity: .7;
+    }
+}
+
+.el-row{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.el-col{
+    margin: 0 !important;
+    padding: 0 !important;
+}

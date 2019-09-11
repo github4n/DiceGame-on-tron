@@ -1,0 +1,2156 @@
+2019-06-02T14:14:07.664Z - normal: Load ~/.CocosCreator/settings.json
+2019-06-02T14:14:09.132Z - normal: Initializing Asset Database
+2019-06-02T14:14:09.137Z - normal: checking language setting...
+2019-06-02T14:14:09.137Z - normal: Language: zh
+2019-06-02T14:14:11.156Z - success: preview server running at http://localhost:7456
+2019-06-02T14:14:11.161Z - success: protocol editor-framework registered
+2019-06-02T14:14:11.161Z - success: protocol app registered
+2019-06-02T14:14:11.161Z - success: protocol theme registered
+2019-06-02T14:14:11.161Z - success: protocol packages registered
+2019-06-02T14:14:11.162Z - success: protocol uuid registerred
+2019-06-02T14:14:11.162Z - success: protocol db registerred
+2019-06-02T14:14:11.162Z - success: protocol thumbnail registerred
+2019-06-02T14:14:11.162Z - success: protocol unpack registerred
+2019-06-02T14:14:11.162Z - success: protocol disable-commonjs registerred
+2019-06-02T14:14:11.260Z - normal: connected!
+2019-06-02T14:14:11.262Z - normal: Check project F:\work\roll
+2019-06-02T14:14:11.266Z - normal: Initializing project F:\work\roll
+2019-06-02T14:14:13.215Z - normal: Initializing Cocos2d
+2019-06-02T14:14:15.232Z - normal: Initializing engine extends
+2019-06-02T14:14:15.239Z - normal: Loading editor/builtin packages from F:\CocosCreator\resources\app.asar\editor\builtin
+2019-06-02T14:14:15.613Z - success: assets loaded
+2019-06-02T14:14:15.622Z - success: builder loaded
+2019-06-02T14:14:16.382Z - success: cocos-services loaded
+2019-06-02T14:14:16.390Z - success: console loaded
+2019-06-02T14:14:16.474Z - success: fb-instant-games loaded
+2019-06-02T14:14:16.477Z - success: google-instant-games loaded
+2019-06-02T14:14:16.487Z - success: hierarchy loaded
+2019-06-02T14:14:16.493Z - success: inspector loaded
+2019-06-02T14:14:16.496Z - success: keystore loaded
+2019-06-02T14:14:16.506Z - success: node-library loaded
+2019-06-02T14:14:16.509Z - success: package-asset loaded
+2019-06-02T14:14:16.512Z - success: preferences loaded
+2019-06-02T14:14:16.515Z - success: project-exporter loaded
+2019-06-02T14:14:16.518Z - success: project-importer loaded
+2019-06-02T14:14:16.521Z - success: project-settings loaded
+2019-06-02T14:14:16.526Z - success: ui-kit loaded
+2019-06-02T14:14:16.536Z - success: scene loaded
+2019-06-02T14:14:16.539Z - success: simulator-debugger loaded
+2019-06-02T14:14:16.541Z - success: sprite-editor loaded
+2019-06-02T14:14:16.553Z - success: store loaded
+2019-06-02T14:14:16.564Z - success: timeline loaded
+2019-06-02T14:14:16.565Z - normal: Loading builtin packages from F:\CocosCreator\resources\builtin
+2019-06-02T14:14:16.599Z - success: asset-db-debugger loaded
+2019-06-02T14:14:16.603Z - success: code-editor loaded
+2019-06-02T14:14:16.605Z - success: color-picker loaded
+2019-06-02T14:14:16.832Z - success: fb-audience-network loaded
+2019-06-02T14:14:16.840Z - success: fb-live-stream loaded
+2019-06-02T14:14:16.849Z - success: google-play-instant loaded
+2019-06-02T14:14:16.858Z - success: huawei-runtime loaded
+2019-06-02T14:14:16.859Z - success: jsb-adapter loaded
+2019-06-02T14:14:16.870Z - success: oppo-runtime loaded
+2019-06-02T14:14:16.876Z - success: package-manager loaded
+2019-06-02T14:14:17.289Z - success: qqplay-adapter loaded
+2019-06-02T14:14:17.293Z - success: runtime-dev-tools loaded
+2019-06-02T14:14:17.301Z - success: sdkbox loaded
+2019-06-02T14:14:17.308Z - success: tester loaded
+2019-06-02T14:14:17.312Z - success: ui-grid loaded
+2019-06-02T14:14:17.317Z - success: ui-kit-preview-extra loaded
+2019-06-02T14:14:17.321Z - success: ui-kit-preview loaded
+2019-06-02T14:14:17.324Z - success: ui-tree loaded
+2019-06-02T14:14:17.335Z - success: vivo-runtime loaded
+2019-06-02T14:14:17.336Z - success: weapp-adapter loaded
+2019-06-02T14:14:20.906Z - normal: Loading packages
+2019-06-02T14:14:20.919Z - normal: Watching packages
+2019-06-02T14:14:21.081Z - info: Cocos Services load base data!
+2019-06-02T14:14:22.090Z - normal: Run Application
+2019-06-02T14:46:22.308Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T14:46:22.316Z - normal: Building F:\work\roll
+2019-06-02T14:46:22.316Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T14:46:22.758Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T14:47:16.368Z - normal: Start building assets
+2019-06-02T14:47:16.371Z - normal: Start spawn build-worker
+2019-06-02T14:47:18.086Z - normal: Finish spawn build-worker
+2019-06-02T14:47:18.086Z - normal: Start init build-worker
+2019-06-02T14:47:25.036Z - normal: Finish init build-worker
+2019-06-02T14:47:25.036Z - normal: Start build-assets in worker
+2019-06-02T14:47:27.384Z - normal: Finish build-assets in worker
+2019-06-02T14:47:27.398Z - normal: Finish building assets
+2019-06-02T14:47:27.437Z - normal: Start building plugin scripts
+2019-06-02T14:47:27.456Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T14:47:27.480Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T14:47:27.529Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T14:59:48.906Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T14:59:48.913Z - normal: Building F:\work\roll
+2019-06-02T14:59:48.914Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T14:59:48.917Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T14:59:53.354Z - normal: Start building assets
+2019-06-02T14:59:53.355Z - normal: Start spawn build-worker
+2019-06-02T14:59:54.856Z - normal: Finish spawn build-worker
+2019-06-02T14:59:54.856Z - normal: Start init build-worker
+2019-06-02T15:00:01.864Z - normal: Finish init build-worker
+2019-06-02T15:00:01.864Z - normal: Start build-assets in worker
+2019-06-02T15:00:04.010Z - normal: Finish build-assets in worker
+2019-06-02T15:00:04.026Z - normal: Finish building assets
+2019-06-02T15:00:04.059Z - normal: Start building plugin scripts
+2019-06-02T15:00:04.075Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:00:04.086Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:00:04.127Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T15:06:13.056Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T15:06:13.062Z - normal: Building F:\work\roll
+2019-06-02T15:06:13.063Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T15:06:13.064Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T15:06:17.108Z - normal: Start building assets
+2019-06-02T15:06:17.108Z - normal: Start spawn build-worker
+2019-06-02T15:06:18.660Z - normal: Finish spawn build-worker
+2019-06-02T15:06:18.660Z - normal: Start init build-worker
+2019-06-02T15:06:25.145Z - normal: Finish init build-worker
+2019-06-02T15:06:25.145Z - normal: Start build-assets in worker
+2019-06-02T15:06:27.055Z - normal: Finish build-assets in worker
+2019-06-02T15:06:27.069Z - normal: Finish building assets
+2019-06-02T15:06:27.100Z - normal: Start building plugin scripts
+2019-06-02T15:06:27.115Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:06:27.121Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:06:27.164Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T15:16:01.027Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T15:16:01.043Z - normal: Building F:\work\roll
+2019-06-02T15:16:01.045Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T15:16:01.051Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T15:16:05.802Z - normal: Start building assets
+2019-06-02T15:16:05.802Z - normal: Start spawn build-worker
+2019-06-02T15:16:07.485Z - normal: Finish spawn build-worker
+2019-06-02T15:16:07.485Z - normal: Start init build-worker
+2019-06-02T15:16:14.170Z - normal: Finish init build-worker
+2019-06-02T15:16:14.171Z - normal: Start build-assets in worker
+2019-06-02T15:16:16.054Z - normal: Finish build-assets in worker
+2019-06-02T15:16:16.067Z - normal: Finish building assets
+2019-06-02T15:16:16.100Z - normal: Start building plugin scripts
+2019-06-02T15:16:16.118Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:16:16.127Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:16:16.186Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T15:19:03.980Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T15:19:03.986Z - normal: Building F:\work\roll
+2019-06-02T15:19:03.987Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T15:19:03.989Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T15:19:08.535Z - normal: Start building assets
+2019-06-02T15:19:08.535Z - normal: Start spawn build-worker
+2019-06-02T15:19:10.449Z - normal: Finish spawn build-worker
+2019-06-02T15:19:10.450Z - normal: Start init build-worker
+2019-06-02T15:19:17.866Z - normal: Finish init build-worker
+2019-06-02T15:19:17.866Z - normal: Start build-assets in worker
+2019-06-02T15:19:19.999Z - normal: Finish build-assets in worker
+2019-06-02T15:19:20.010Z - normal: Finish building assets
+2019-06-02T15:19:20.042Z - normal: Start building plugin scripts
+2019-06-02T15:19:20.058Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:19:20.067Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:19:20.123Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T15:25:52.362Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T15:25:52.368Z - normal: Building F:\work\roll
+2019-06-02T15:25:52.368Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T15:25:52.371Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T15:25:57.503Z - normal: Start building assets
+2019-06-02T15:25:57.504Z - normal: Start spawn build-worker
+2019-06-02T15:25:59.435Z - normal: Finish spawn build-worker
+2019-06-02T15:25:59.435Z - normal: Start init build-worker
+2019-06-02T15:26:08.144Z - normal: Finish init build-worker
+2019-06-02T15:26:08.144Z - normal: Start build-assets in worker
+2019-06-02T15:26:10.672Z - normal: Finish build-assets in worker
+2019-06-02T15:26:10.762Z - normal: Finish building assets
+2019-06-02T15:26:10.805Z - normal: Start building plugin scripts
+2019-06-02T15:26:10.847Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:26:10.864Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:26:10.929Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T15:33:40.862Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T15:33:40.869Z - normal: Building F:\work\roll
+2019-06-02T15:33:40.870Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T15:33:40.873Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T15:33:44.302Z - normal: Start building assets
+2019-06-02T15:33:44.302Z - normal: Start spawn build-worker
+2019-06-02T15:33:45.648Z - normal: Finish spawn build-worker
+2019-06-02T15:33:45.648Z - normal: Start init build-worker
+2019-06-02T15:33:50.677Z - normal: Finish init build-worker
+2019-06-02T15:33:50.677Z - normal: Start build-assets in worker
+2019-06-02T15:33:52.437Z - normal: Finish build-assets in worker
+2019-06-02T15:33:52.451Z - normal: Finish building assets
+2019-06-02T15:33:52.484Z - normal: Start building plugin scripts
+2019-06-02T15:33:52.503Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:33:52.510Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:33:52.552Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T15:38:54.561Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T15:38:54.566Z - normal: Building F:\work\roll
+2019-06-02T15:38:54.567Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T15:38:54.569Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T15:38:58.749Z - normal: Start building assets
+2019-06-02T15:38:58.749Z - normal: Start spawn build-worker
+2019-06-02T15:39:00.275Z - normal: Finish spawn build-worker
+2019-06-02T15:39:00.276Z - normal: Start init build-worker
+2019-06-02T15:39:07.783Z - normal: Finish init build-worker
+2019-06-02T15:39:07.784Z - normal: Start build-assets in worker
+2019-06-02T15:39:10.602Z - normal: Finish build-assets in worker
+2019-06-02T15:39:10.645Z - normal: Finish building assets
+2019-06-02T15:39:10.674Z - normal: Start building plugin scripts
+2019-06-02T15:39:10.693Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:39:10.708Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:39:10.768Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T15:56:27.037Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T15:56:27.043Z - normal: Building F:\work\roll
+2019-06-02T15:56:27.043Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T15:56:27.046Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T15:56:32.716Z - normal: Start building assets
+2019-06-02T15:56:32.717Z - normal: Start spawn build-worker
+2019-06-02T15:56:34.199Z - normal: Finish spawn build-worker
+2019-06-02T15:56:34.199Z - normal: Start init build-worker
+2019-06-02T15:56:40.151Z - normal: Finish init build-worker
+2019-06-02T15:56:40.151Z - normal: Start build-assets in worker
+2019-06-02T15:56:41.748Z - normal: Finish build-assets in worker
+2019-06-02T15:56:41.759Z - normal: Finish building assets
+2019-06-02T15:56:41.792Z - normal: Start building plugin scripts
+2019-06-02T15:56:41.810Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T15:56:41.817Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T15:56:41.865Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:03:07.520Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:03:07.527Z - normal: Building F:\work\roll
+2019-06-02T16:03:07.528Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:03:07.530Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:03:12.970Z - normal: Start building assets
+2019-06-02T16:03:12.970Z - normal: Start spawn build-worker
+2019-06-02T16:03:15.689Z - normal: Finish spawn build-worker
+2019-06-02T16:03:15.689Z - normal: Start init build-worker
+2019-06-02T16:03:22.421Z - normal: Finish init build-worker
+2019-06-02T16:03:22.421Z - normal: Start build-assets in worker
+2019-06-02T16:03:24.103Z - normal: Finish build-assets in worker
+2019-06-02T16:03:24.118Z - normal: Finish building assets
+2019-06-02T16:03:24.156Z - normal: Start building plugin scripts
+2019-06-02T16:03:24.177Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:03:24.184Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:03:24.237Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:07:05.596Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:07:05.603Z - normal: Building F:\work\roll
+2019-06-02T16:07:05.604Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:07:05.606Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:07:12.351Z - normal: Start building assets
+2019-06-02T16:07:12.352Z - normal: Start spawn build-worker
+2019-06-02T16:07:13.966Z - normal: Finish spawn build-worker
+2019-06-02T16:07:13.966Z - normal: Start init build-worker
+2019-06-02T16:07:19.830Z - normal: Finish init build-worker
+2019-06-02T16:07:19.830Z - normal: Start build-assets in worker
+2019-06-02T16:07:21.446Z - normal: Finish build-assets in worker
+2019-06-02T16:07:21.456Z - normal: Finish building assets
+2019-06-02T16:07:21.488Z - normal: Start building plugin scripts
+2019-06-02T16:07:21.511Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:07:21.518Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:07:21.561Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:09:33.314Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:09:33.321Z - normal: Building F:\work\roll
+2019-06-02T16:09:33.321Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:09:33.324Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:09:39.486Z - normal: Start building assets
+2019-06-02T16:09:39.486Z - normal: Start spawn build-worker
+2019-06-02T16:09:42.849Z - normal: Finish spawn build-worker
+2019-06-02T16:09:42.849Z - normal: Start init build-worker
+2019-06-02T16:09:52.632Z - normal: Finish init build-worker
+2019-06-02T16:09:52.632Z - normal: Start build-assets in worker
+2019-06-02T16:09:54.645Z - normal: Finish build-assets in worker
+2019-06-02T16:09:54.701Z - normal: Finish building assets
+2019-06-02T16:09:54.756Z - normal: Start building plugin scripts
+2019-06-02T16:09:54.823Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:09:54.846Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:09:54.897Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:12:11.138Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:12:11.145Z - normal: Building F:\work\roll
+2019-06-02T16:12:11.146Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:12:11.149Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:12:15.909Z - normal: Start building assets
+2019-06-02T16:12:15.909Z - normal: Start spawn build-worker
+2019-06-02T16:12:18.163Z - normal: Finish spawn build-worker
+2019-06-02T16:12:18.164Z - normal: Start init build-worker
+2019-06-02T16:12:27.968Z - normal: Finish init build-worker
+2019-06-02T16:12:27.968Z - normal: Start build-assets in worker
+2019-06-02T16:12:30.480Z - normal: Finish build-assets in worker
+2019-06-02T16:12:30.499Z - normal: Finish building assets
+2019-06-02T16:12:30.554Z - normal: Start building plugin scripts
+2019-06-02T16:12:30.579Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:12:30.591Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:12:30.680Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:15:58.732Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:15:58.740Z - normal: Building F:\work\roll
+2019-06-02T16:15:58.741Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:15:58.744Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:16:06.996Z - normal: Start building assets
+2019-06-02T16:16:06.996Z - normal: Start spawn build-worker
+2019-06-02T16:16:09.864Z - normal: Finish spawn build-worker
+2019-06-02T16:16:09.864Z - normal: Start init build-worker
+2019-06-02T16:16:16.972Z - normal: Finish init build-worker
+2019-06-02T16:16:16.972Z - normal: Start build-assets in worker
+2019-06-02T16:16:18.862Z - normal: Finish build-assets in worker
+2019-06-02T16:16:18.879Z - normal: Finish building assets
+2019-06-02T16:16:18.928Z - normal: Start building plugin scripts
+2019-06-02T16:16:18.965Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:16:18.975Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:16:19.032Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:21:05.063Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:21:05.070Z - normal: Building F:\work\roll
+2019-06-02T16:21:05.071Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:21:05.074Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:21:09.741Z - normal: Start building assets
+2019-06-02T16:21:09.741Z - normal: Start spawn build-worker
+2019-06-02T16:21:11.874Z - normal: Finish spawn build-worker
+2019-06-02T16:21:11.874Z - normal: Start init build-worker
+2019-06-02T16:21:18.428Z - normal: Finish init build-worker
+2019-06-02T16:21:18.429Z - normal: Start build-assets in worker
+2019-06-02T16:21:20.309Z - normal: Finish build-assets in worker
+2019-06-02T16:21:20.322Z - normal: Finish building assets
+2019-06-02T16:21:20.356Z - normal: Start building plugin scripts
+2019-06-02T16:21:20.379Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:21:20.388Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:21:20.432Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:25:16.182Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:25:16.190Z - normal: Building F:\work\roll
+2019-06-02T16:25:16.191Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:25:16.193Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:25:19.980Z - normal: Start building assets
+2019-06-02T16:25:19.980Z - normal: Start spawn build-worker
+2019-06-02T16:25:21.659Z - normal: Finish spawn build-worker
+2019-06-02T16:25:21.659Z - normal: Start init build-worker
+2019-06-02T16:25:27.565Z - normal: Finish init build-worker
+2019-06-02T16:25:27.565Z - normal: Start build-assets in worker
+2019-06-02T16:25:29.249Z - normal: Finish build-assets in worker
+2019-06-02T16:25:29.265Z - normal: Finish building assets
+2019-06-02T16:25:29.300Z - normal: Start building plugin scripts
+2019-06-02T16:25:29.318Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:25:29.328Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:25:29.375Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:30:42.681Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:30:42.687Z - normal: Building F:\work\roll
+2019-06-02T16:30:42.687Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:30:42.689Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:30:46.121Z - normal: Start building assets
+2019-06-02T16:30:46.122Z - normal: Start spawn build-worker
+2019-06-02T16:30:47.468Z - normal: Finish spawn build-worker
+2019-06-02T16:30:47.468Z - normal: Start init build-worker
+2019-06-02T16:30:52.972Z - normal: Finish init build-worker
+2019-06-02T16:30:52.972Z - normal: Start build-assets in worker
+2019-06-02T16:30:54.605Z - normal: Finish build-assets in worker
+2019-06-02T16:30:54.619Z - normal: Finish building assets
+2019-06-02T16:30:54.650Z - normal: Start building plugin scripts
+2019-06-02T16:30:54.667Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:30:54.673Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:30:54.725Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-02T16:33:45.002Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-02T16:33:45.007Z - normal: Building F:\work\roll
+2019-06-02T16:33:45.008Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-02T16:33:45.009Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-02T16:33:48.861Z - normal: Start building assets
+2019-06-02T16:33:48.862Z - normal: Start spawn build-worker
+2019-06-02T16:33:50.156Z - normal: Finish spawn build-worker
+2019-06-02T16:33:50.156Z - normal: Start init build-worker
+2019-06-02T16:33:56.221Z - normal: Finish init build-worker
+2019-06-02T16:33:56.221Z - normal: Start build-assets in worker
+2019-06-02T16:33:57.971Z - normal: Finish build-assets in worker
+2019-06-02T16:33:57.983Z - normal: Finish building assets
+2019-06-02T16:33:58.017Z - normal: Start building plugin scripts
+2019-06-02T16:33:58.036Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-02T16:33:58.045Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-02T16:33:58.107Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-03T09:12:18.460Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-03T09:12:18.467Z - normal: Building F:\work\roll
+2019-06-03T09:12:18.467Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-03T09:12:18.469Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-03T09:12:22.774Z - normal: Start building assets
+2019-06-03T09:12:22.774Z - normal: Start spawn build-worker
+2019-06-03T09:12:24.152Z - normal: Finish spawn build-worker
+2019-06-03T09:12:24.152Z - normal: Start init build-worker
+2019-06-03T09:12:30.487Z - normal: Finish init build-worker
+2019-06-03T09:12:30.487Z - normal: Start build-assets in worker
+2019-06-03T09:12:32.566Z - normal: Finish build-assets in worker
+2019-06-03T09:12:32.583Z - normal: Finish building assets
+2019-06-03T09:12:32.615Z - normal: Start building plugin scripts
+2019-06-03T09:12:32.632Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-03T09:12:32.645Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-03T09:12:32.681Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-03T09:39:16.393Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-03T09:39:16.402Z - normal: Building F:\work\roll
+2019-06-03T09:39:16.402Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-03T09:39:16.405Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-03T09:39:22.029Z - normal: Start building assets
+2019-06-03T09:39:22.030Z - normal: Start spawn build-worker
+2019-06-03T09:39:24.087Z - normal: Finish spawn build-worker
+2019-06-03T09:39:24.087Z - normal: Start init build-worker
+2019-06-03T09:39:33.191Z - normal: Finish init build-worker
+2019-06-03T09:39:33.192Z - normal: Start build-assets in worker
+2019-06-03T09:39:35.491Z - normal: Finish build-assets in worker
+2019-06-03T09:39:35.504Z - normal: Finish building assets
+2019-06-03T09:39:35.543Z - normal: Start building plugin scripts
+2019-06-03T09:39:35.564Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-03T09:39:35.578Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-03T09:39:35.636Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-03T09:43:31.681Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-03T09:43:31.691Z - normal: Building F:\work\roll
+2019-06-03T09:43:31.692Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-03T09:43:31.695Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-03T09:43:43.838Z - normal: Start building assets
+2019-06-03T09:43:43.839Z - normal: Start spawn build-worker
+2019-06-03T09:43:47.975Z - normal: Finish spawn build-worker
+2019-06-03T09:43:47.976Z - normal: Start init build-worker
+2019-06-03T09:44:05.538Z - normal: Finish init build-worker
+2019-06-03T09:44:05.538Z - normal: Start build-assets in worker
+2019-06-03T09:44:11.627Z - normal: Finish build-assets in worker
+2019-06-03T09:44:11.733Z - normal: Finish building assets
+2019-06-03T09:44:11.821Z - normal: Start building plugin scripts
+2019-06-03T09:44:11.926Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-03T09:44:11.940Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-03T09:44:12.158Z - normal: Built to "F:\work\roll\build\web-mobile" successfully
+2019-06-03T09:48:21.841Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "F:\\work\\roll\\build",
+  "debug": false,
+  "dest": "F:\\work\\roll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "EditBox",
+    "VideoPlayer",
+    "Animation",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.roll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "deeedc42-7d8e-471a-9ea6-baf616740238"
+  ],
+  "sourceMaps": false,
+  "startScene": "deeedc42-7d8e-471a-9ea6-baf616740238",
+  "template": "link",
+  "title": "roll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "53eefdf5-ab56-42",
+  "zipCompressJs": true,
+  "project": "F:\\work\\roll",
+  "projectName": "roll",
+  "debugBuildWorker": false
+}
+2019-06-03T09:48:21.848Z - normal: Building F:\work\roll
+2019-06-03T09:48:21.848Z - normal: Destination F:\work\roll\build\web-mobile
+2019-06-03T09:48:21.850Z - normal: Delete F:\work\roll\build\web-mobile\subpackages/**/*,F:\work\roll\build\web-mobile\**\*
+2019-06-03T09:48:26.327Z - normal: Start building assets
+2019-06-03T09:48:26.328Z - normal: Start spawn build-worker
+2019-06-03T09:48:28.064Z - normal: Finish spawn build-worker
+2019-06-03T09:48:28.065Z - normal: Start init build-worker
+2019-06-03T09:48:33.923Z - normal: Finish init build-worker
+2019-06-03T09:48:33.923Z - normal: Start build-assets in worker
+2019-06-03T09:48:35.656Z - normal: Finish build-assets in worker
+2019-06-03T09:48:35.666Z - normal: Finish building assets
+2019-06-03T09:48:35.696Z - normal: Start building plugin scripts
+2019-06-03T09:48:35.716Z - normal: Generating main.js from F:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-06-03T09:48:35.731Z - normal: Generating html from F:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-06-03T09:48:35.782Z - normal: Built to "F:\work\roll\build\web-mobile" successfully

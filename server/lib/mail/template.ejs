@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>email</title>
+	<style type="text/css">
+	body{text-align:center} 
+	.eamil{
+		width:750px;
+		height:500px; 
+		margin:0 auto;
+		border:1px solid #000;
+		background:url(https://www.tronoscar.pro/images/email.png) no-repeat;
+	}
+	.email-span{
+      color:#1AE6E6;
+      font-size:28px;
+      font-weight: 900;
+      font-family: STSong;
+    }
+	.email-con{
+      margin:40px auto;
+    }
+	.email-span2{
+        color:#1AE6E6;
+        font-size:14px;
+        font-weight: 300;
+        margin-top:20px;
+     }
+	.email-yzm{
+      margin:0 auto;
+    }
+	
+	.yzm{
+        color:#fff;
+        font-size:12px;
+      }
+	.butt{
+        width: 60px;
+		cursor: pointer;
+        background: #06d4de;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 550;
+        border: 1px solid #06d4de;
+        text-align: center;
+        border-radius: 0px 4px 4px 0px;
+        line-height: 38px;
+		position: absolute;
+      }
+	  .input{
+        background: #fff;
+		color: #06d4de;
+		font-size: 20px;
+		margin-left: -50px;
+		border: 1px solid #fff;
+		text-align: center;
+		border-radius: 4px 0px 0px 4px;
+		height: 36px;
+		width: 242px;
+		
+      }
+	</style>
+</head>
+<body>
+<div class="eamil">
+	<div style="margin: 60px auto"><img class="title-dapp" src="https://www.tronoscar.pro/images/oscar.png" alt=""/></div>
+	<span class="email-span">Referral Reward Event Verification</span>
+	<div class="email-con">
+        <span class="email-span2">Please enter the  verification code and bind your email.</span>
+     </div>
+	 <div class="email-yzm">
+        <p class="yzm">Code</p>
+        <input id="input" class="input" type="text" value="<%= code %>" />
+        <a class="butt" onclick="copyNum()">Copy</a>
+      </div> 
+	  
+		<!-- <div class="butt"><a onclick="copyNum()">Copy</a></div> -->
+	  
+		
+</div>
+</body>
+
+<script>	
+function copyNum() {  
+    var Url=document.getElementById("input");  
+    Url.select(); // 选择对象  
+    document.execCommand("Copy"); // 执行浏览器复制命令  
+	alert("复制成功!");
+}
+</script>
+
+

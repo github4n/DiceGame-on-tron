@@ -1,0 +1,247 @@
+@import "./_settings.less";  //全局变量存放的文件（要加~）
+.main{
+    background: @mainBgColor;
+}
+
+/* .main-content {
+    max-width: @mainContentMaxWidth;
+    margin: 0 auto;
+} */
+
+.block-box {
+    background-color: #204252;
+}
+
+.aside-content{
+    padding-left: 15px;
+    
+}
+
+.aside-box{
+    //height: 70px;
+    padding: 0px 0px 20px;
+    box-sizing: border-box;
+    .pc-aside{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        .aside-list{
+            .bet-record-2x{
+                height: 50px;
+                background: #00E9E1;
+                width: 5px;
+                border-radius: 5px;
+                margin-left: 5px;
+            }
+
+            .bet-record-3x{
+                height: 50px;
+                background: #827EF1;
+                width: 5px;
+                border-radius: 5px;
+                margin-left: 5px;
+            }
+
+            .bet-record-5x{
+                height: 50px;
+                background: #FFFFFF;
+                width: 5px;
+                border-radius: 5px;
+                margin-left: 5px;
+            }
+
+            .bet-record-30x{
+                height: 50px;
+                background: #FFC559;
+                width: 5px;
+                border-radius: 5px;
+                margin-left: 5px;
+            }
+        }
+    }
+}
+
+.bet-content{
+    //background-color: @blockBgColor;
+    border-radius: 10px;
+    padding: 10px 30px 10px;
+    //margin-top: 20px;
+}
+
+.roulette-box {
+    border: 6px solid #fff;
+    border-radius:10px;
+    table {
+        width: 100%;
+        padding: 15px;
+        tr {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+           td { 
+                width: 55px;
+                height: 55px;
+                margin: 5px;
+           }
+        }
+    }
+} 
+
+@media screen and (max-width: 1200px){
+    .roulette-box {
+        border: 6px solid #fff;
+        border-radius:10px;
+        table {
+            width: 100%;
+            padding: 15px;
+            tr {
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+               td { 
+                    width: 66px;
+                    height: 66px;
+               }
+            }
+        }
+    } 
+
+    .roulette-content {
+        padding: 15px;
+        border-radius: 10px;
+    }
+}
+
+@media screen and (max-width: 950px){
+    .roulette-box {
+        border: 6px solid #fff;
+        border-radius:10px;
+        table {
+            width: 100%;
+            padding: 15px;
+            tr {
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+               td { 
+                    width: 50px;
+                    height: 50px;
+               }
+            }
+        }
+    } 
+
+    .roulette-content {
+        padding: 15px;
+        border-radius: 10px;
+    }
+}
+
+@media screen and (max-width: 750px){
+    .roulette-box {
+        border: 6px solid #fff;
+        border-radius:10px;
+        table {
+            width: 100%;
+            padding: 15px;
+            tr {
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+               td { 
+                    width: 50px;
+                    height: 50px;
+               }
+            }
+        }
+    } 
+
+    .roulette-content {
+        padding: 15px;
+        border-radius: 10px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .roulette-box {
+        border: none;
+        border-radius:none;
+        table {
+            width: 100%;
+            padding: 0;
+            tr {
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+               td { 
+                    width: 28px;
+                    height: 28px;
+                    margin: 0;
+                    padding: 0;
+                    margin-bottom: 5px;
+               }
+            }
+        }
+    } 
+
+    .roulette-content {
+        padding: 5px;
+        border-radius: 0;
+    }
+
+    .aside-content{
+        margin-top: 20px;
+        padding: 0;
+    }
+    
+    .aside-box{
+        //background-color: @blockBgColor;
+        height: 90px;
+        .mobile-aside{
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+
+            .aside-list{
+                .bet-record-2x{
+                    height: 30px;
+                    background: #00E9E1;
+                    width: 5px;
+                    border-radius: 5px;
+                    margin-left: 5px;
+                }
+
+                .bet-record-3x{
+                    height: 30px;
+                    background: #827EF1;
+                    width: 5px;
+                    border-radius: 5px;
+                    margin-left: 5px;
+                }
+
+                .bet-record-5x{
+                    height: 30px;
+                    background: #FFFFFF;
+                    width: 5px;
+                    border-radius: 5px;
+                    margin-left: 5px;
+                }
+
+                .bet-record-30x{
+                    height: 30px;
+                    background: #FFC559;
+                    width: 5px;
+                    border-radius: 5px;
+                    margin-left: 5px;
+                }
+            }
+        }
+    }
+}
